@@ -30,8 +30,8 @@ Hi! I'm 👋 Pratyush<br>👨‍💻 2nd Year BTech Computer Science Student<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prat-yussh&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ### ✍ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
 
 <picture>
