@@ -19,5 +19,3 @@ Hi! I'm 👋 Pratyush<br>👨‍💻 2nd Year BTech Computer Science Student<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
