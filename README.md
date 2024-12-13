@@ -1,6 +1,6 @@
-# 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=prat-yussh&icon=6&color=9)](https://visitcount.itsvg.in)
-Hi! I'm 👋 Pratyush<br>👨‍💻 2nd Year BTech Computer Science Student<br>🎓 Centurion University | Odisha,India | Section G<br>🔭 Currently working on: Improving my coding skills through projects.<br>🌱 Currently learning: Data structures, algorithms, and web development.<br>💬 Ask me about: Programming, project ideas, or coding challenges.<br>⚡ Fun fact: Always focused on learning, even without a clear roadmap.<br>
-
+# 💫 About Me:  
+Hi! I'm 👋 Pratyush<br>👨‍💻 2nd Year BTech Computer Science Student<br>🎓 Centurion University | Odisha,India | Section G<br>🔭 Currently working on: Improving my coding skills through projects.<br>🌱 Currently learning: Data structures, algorithms, and web development.<br>💬 Ask me about: Programming, project ideas, or coding challenges.<br>⚡ Fun fact: Always focused on learning, even without a clear roadmap.<br><br>
+[![](https://visitcount.itsvg.in/api?id=prat-yussh&icon=6&color=9)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prat.yussh/) 
 
