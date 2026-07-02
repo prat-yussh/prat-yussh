@@ -86,18 +86,22 @@ Cloud and DevOps Roadmap
 └── Project Documentation
 ```
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prat-yussh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 <img width="48%" src="https://streak-stats.demolab.com?user=prat-yussh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat-yussh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prat-yussh/prat-yussh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prat-yussh/prat-yussh/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prat-yussh/prat-yussh/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+
 
 ## Connect With Me
 
